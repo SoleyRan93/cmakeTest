@@ -1,0 +1,6 @@
+/Users/ranshu/Desktop/cmakeTest/helloLib/build/CMakeFiles/edit_cache.dir
+/Users/ranshu/Desktop/cmakeTest/helloLib/build/CMakeFiles/rebuild_cache.dir
+/Users/ranshu/Desktop/cmakeTest/helloLib/build/bin/CMakeFiles/hello_static.dir
+/Users/ranshu/Desktop/cmakeTest/helloLib/build/bin/CMakeFiles/hello.dir
+/Users/ranshu/Desktop/cmakeTest/helloLib/build/bin/CMakeFiles/edit_cache.dir
+/Users/ranshu/Desktop/cmakeTest/helloLib/build/bin/CMakeFiles/rebuild_cache.dir

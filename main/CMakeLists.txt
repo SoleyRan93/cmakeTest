@@ -1,0 +1,4 @@
+PROJECT(MAIN)
+ADD_SUBDIRECTORY(src bin)
+
+

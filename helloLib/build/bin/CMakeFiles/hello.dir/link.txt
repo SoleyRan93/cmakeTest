@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libhello.dylib -install_name /Users/ranshu/Desktop/cmakeTest/helloLib/build/bin/libhello.dylib CMakeFiles/hello.dir/hello.o 
